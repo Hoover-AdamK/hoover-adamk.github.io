@@ -4,6 +4,19 @@ body
     font-family: Arial, Helvetica, sans-serif;
 }
 
+.assignment 
+{
+    display:flex;
+    padding:10px;
+    margin:10px;
+    background:darkgrey;
+}
+
+.assignment img {
+    width:400px;
+    padding:10px;
+}
+
 h1 
 {
     color: rgb(160, 45, 4);
